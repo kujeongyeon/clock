@@ -1,3 +1,7 @@
-﻿body
-{
+﻿.form,
+.greetings {
+    display: none;
+}
+.showing{
+    display: block;
 }
